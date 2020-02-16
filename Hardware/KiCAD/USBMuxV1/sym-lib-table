@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name USBMuxV1-rescue)(type Legacy)(uri ${KIPRJMOD}/USBMuxV1-rescue.lib)(options "")(descr ""))
+)
